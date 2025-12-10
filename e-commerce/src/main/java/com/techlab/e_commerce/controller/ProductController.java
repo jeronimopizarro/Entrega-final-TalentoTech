@@ -1,6 +1,6 @@
 package com.techlab.e_commerce.controller;
 
-import com.techlab.e_commerce.entity.Product;
+import com.techlab.e_commerce.model.entity.Product;
 import com.techlab.e_commerce.service.ProductService;
 import com.techlab.e_commerce.service.ProductServiceImpl;
 import org.springframework.web.bind.annotation.*;

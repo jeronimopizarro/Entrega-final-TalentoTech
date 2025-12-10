@@ -1,4 +1,4 @@
-package com.techlab.e_commerce.entity;
+package com.techlab.e_commerce.model.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

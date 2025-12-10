@@ -1,6 +1,6 @@
 package com.techlab.e_commerce.service;
 
-import com.techlab.e_commerce.entity.Product;
+import com.techlab.e_commerce.model.entity.Product;
 
 import java.util.List;
 
